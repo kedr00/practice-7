@@ -41,4 +41,4 @@ max-line-length=80, extend-ignore=E203,W503, exclude=.git,__pycache__,docs.
 ### 4.2. Ссылка на Pull Request
 https://github.com/kedr00/practice-7/pull/1
 ### 4.3. Скриншот Checks
-<img width="1920" height="1080" alt="Снимок экрана (7)" src="https://github.com/user-attachments/assets/489a4d39-f302-4f6d-9dd2-9bd762be6e33" />
+<img width="1920" height="1080" alt="Снимок экрана (7)" src="https://github.com/user-attachments/assets/489a4d39-f302-4f6d-9dd2-9bd762be6e33" /> 
